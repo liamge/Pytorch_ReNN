@@ -42,7 +42,6 @@ def load_model(model, loadpath):
 
 
 if __name__ == '__main__':
-    # TODO: Come up with evaluation mode where the representations are used on a different task
     args = arg_parse()
 
     trees = []
